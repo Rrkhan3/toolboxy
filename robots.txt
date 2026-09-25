@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://toolboxy.free.nf/sitemap.xml
